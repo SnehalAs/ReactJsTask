@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "LinkedIn Connect Automation",
+  "name": "linkdine-extension-chrome",
   "version": "1.0",
   "description": "Automate LinkedIn connection requests on the My Network page.",
   "permissions": ["activeTab", "scripting"],
